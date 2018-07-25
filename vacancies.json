@@ -1,63 +1,52 @@
 [
   {
-    "itemName" : "Accountant IV",
-    "itemNo" : "FIN-SPV-001-2018",
-    "sg" : "SG25",
-    "summary" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae ipsum ac sapien maximus congue.",
+    "itemName" : "Population Program Worker II",
+    "itemNo" : "973",
+    "sg" : "SG7",
+    "summary" : "No description provided",
     "education" : [
-      "Bachelor's Degree relevant to the job"
+      "Completion of two years studies in College"
     ],
     "eligibility" : [ 
       {
-        "id" : "cs-prof",
-        "name" : "CS Professional (2nd Level Eligibility)"
+        "id" : "cs-subprof",
+        "name" : "CS Sub-professional (1st Level Eligibility)"
       }
     ],
     "experience" : [
-      "At least 5 years relevant experience"
+      "None required"
     ],
     "training" : [
-      "16 hours of relevant training"
+      "None required"
     ],
     "competencies" : [
       {
-        "id" : "C1-2018",
+        "id" : "ORGNL-INTGRITY-2017",
         "name" : "Integrity"
       },
       {
-        "id" : "C2-2018",
+        "id" : "ORGNL-SRVORNTD-2017",
         "name" : "Customer and Service Orientedness"
-      }
-    ]
-  },
-  {
-    "itemName" : "Accountant III",
-    "itemNo" : "FIN-SPV-002-2018",
-    "sg" : "SG22",
-    "summary" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae ipsum ac sapien maximus congue.",
-    "education" : [
-      "Bachelor's Degree relevant to the job"
-    ],
-    "eligibility" : [ 
-      {
-        "id" : "cs-prof",
-        "name" : "CS Professional (2nd Level Eligibility)"
-      }
-    ],
-    "experience" : [
-      "At least 5 years relevant experience"
-    ],
-    "training" : [
-      "16 hours of relevant training"
-    ],
-    "competencies" : [
-      {
-        "id" : "C1-2018",
-        "name" : "Integrity"
       },
       {
-        "id" : "C2-2018",
-        "name" : "Customer and Service Orientedness"
+        "id" : "ORGNL-PRFSNLSM-2017",
+        "name" : "Professionalism"
+      },
+      {
+        "id" : "ORGNL-EFTVDEVT-2017",
+        "name" : "Effective and Continuous Development"
+      },
+      {
+        "id" : "ORGNL-PSOLVING-2017",
+        "name" : "Problem-solving and Decision-making"
+      },
+      {
+        "id" : "ORGNL-EFFCOMMT-2017",
+        "name" : "Effective Communication"
+      },
+      {
+        "id" : "ORGNL-ADPTFLEX-2017",
+        "name" : "Adaptability and Flexibility"
       }
     ]
   }
